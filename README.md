@@ -1,5 +1,5 @@
-### Greetings! 👋 Iam NvcskCHev, better known as Nvcsk.
+# Greetings! 👋 Iam NvcskCHev, better known as Nvcsk.
 
-**Feel free to explore my repositories.**
+><small>Feel free to explore my repositories.</small>
 ---
 [**nvcskchev.com**](https://nvcskchev.com)
